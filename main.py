@@ -1,3 +1,7 @@
+# Owen Muldoon
+# 2024-01-22
+# A connect four game aginst an ai opponent
+
 # pip install pygame numpy
 
 import numpy as np
